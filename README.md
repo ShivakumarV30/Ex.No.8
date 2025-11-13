@@ -1,10 +1,21 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Experiment No: 8 – Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+**Date: 13.11.2025**  
 
-## Aim:
-To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
+**Reg. No.: 212222060239**
+
+---
+
+## Aim
+To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts.  
+The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
+
+---
+
+## Tool Used
+**Midjourney** – An AI-based text-to-image generation tool used to create realistic and artistic images from textual prompts.
+
+---
 
 ## Procedure:
 1.	Analyze the Given Image:
@@ -28,28 +39,72 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 ○	Use the crafted prompt to generate the image in a text-to-image model (e.g., DALL·E, Stable Diffusion, MidJourney).
 7.	Compare the Generated Image with the Original:
 ○	Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
-## Tools/LLMs for Image Generation:
-●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
-○	Website: DALL·E
-●	Stable Diffusion: An open-source model for generating images from text prompts, known for its flexibility and customizable outputs.
-○	Website: Stable Diffusion
-●	MidJourney: A popular AI tool for generating visually striking and creative images based on text descriptions.
-○	Website: MidJourney
-## Instructions:
-1.	Examine the Given Image: Study the image to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
-2.	Write the Basic Prompt: Start with a simple description of the primary elements in the image (e.g., "A sunset over a mountain range").
-3.	Refine and Add Details: Improve the prompt by incorporating specifics like colors, shapes, textures, and style (e.g., "A sunset over purple mountains, with a golden sky and a calm river flowing through the valley").
-4.	Use the Selected Tool: Choose an image generation model (e.g., DALL·E, Stable Diffusion, or MidJourney) and input the refined prompt.
-5.	Iterate and Adjust: If the initial result isn't quite right, adjust the prompt further based on the differences observed between the generated and original image.
-6.	Save and Document: Save the generated image and document your prompt alongside any observations on how the output compares to the original.
-## Deliverables:
-1.	The Original Image: Provided image for reference.
-2.	The Final Generated Image: The image created using your refined prompt.
-3.	Prompts Used: The text prompts created during the experiment.
-4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
-## Conclusion:
-By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+---
 
+### Create the Basic Prompt
+○ Write an initial, simple description of the image.  
+For example:  
+- “A close-up view of a pink flower.”  
+- “A scenic mountain landscape under a blue sky.”
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+---
+
+### Refine the Prompt with More Detail
+○ Add specific details such as colors, mood, and lighting.  
+For example:  
+- “A close-up macro shot of a blooming pink rose with soft lighting, detailed petals, and a blurred green background.”  
+- “A serene mountain landscape with snow-covered peaks, a reflective lake, and morning sunlight.”
+
+---
+
+### Identify Style and Artistic Influences
+○ If the image has a particular style, include that in the prompt.  
+For example:  
+- “A realistic macro photograph with natural daylight and high detail.”  
+- “A photorealistic mountain landscape captured in early morning light.”
+
+---
+
+### Adjust and Fine-tune
+○ Refine the prompt further by adding unique visual elements or stylistic features.  
+For example:  
+- “A blooming pink rose surrounded by fresh green leaves, captured in a realistic macro style.”  
+- “A majestic mountain range with soft mist, sunlight rays, and a calm blue lake reflecting the peaks.”
+
+---
+
+### Generate the Image
+○ Use the crafted prompt to generate the image in the **Midjourney** text-to-image model.  
+○ Review the output and ensure it aligns with the original image’s theme and composition.
+
+---
+
+### Compare the Generated Image with the Original
+**Comparison 1 – Flower Image:**  
+- **Original:** The original image shows a natural pink rose with soft lighting and subtle color gradients.  
+- **Generated:** The Midjourney-generated image enhances the realism with sharper petal texture, a more detailed macro focus, and a smooth blurred green background.  
+- **Observation:** The generated image closely replicates the natural aesthetics while adding more depth and clarity, resulting in a more vibrant and high-quality version of the original.
+
+**Comparison 2 – Mountain Image:**  
+- **Original:** The given mountain image displays a calm landscape with a mountain range, sky, and light mist.  
+- **Generated:** The AI-generated version shows more dynamic lighting, realistic snow textures, a reflective lake, and an improved color balance in the sky.  
+- **Observation:** The generated image successfully retains the composition and atmosphere of the original while enhancing realism, brightness, and scenic beauty.
+
+---
+
+## Output
+**Google Drive link** : https://drive.google.com/drive/folders/1mWPnJJqnbMEcZOgYZMr44O3oLztpAVhD?usp=sharing
+
+**Original Image 1:** Flower  
+**Generated Image 1:** A realistic close-up macro shot of a blooming pink rose with soft lighting, detailed petals, and a blurred green background.  
+
+**Original Image 2:** Mountain  
+**Generated Image 2:** A high-resolution landscape showing snow-covered mountains, a reflective lake, and early morning sunlight with misty air.
+
+---
+
+## Result
+By using **Midjourney**, detailed and well-crafted prompts were successfully used to reproduce the original images with realistic precision.  
+The AI-generated outputs closely matched the originals, showing improvement in lighting, texture, and color details.  
+This experiment demonstrates how prompt refinement and iteration help achieve high-quality AI-generated visuals that resemble real-world images effectively.
